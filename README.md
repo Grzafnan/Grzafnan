@@ -60,10 +60,10 @@ Currently, I'm Developing my skill on Fullstack web development (MERN) because I
 <hr>
 <br>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/grzafnan/" style="text-decoration: none"  target="_blank">
+  <a href="https://www.linkedin.com/in/shakilahmmed1/" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/GrzAfnan" style="text-decoration: none"  target="_blank">
+  <a href="https://twitter.com/shakil_ahmmed7" style="text-decoration: none"  target="_blank">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.facebook.com/GRzAfnan/" style="text-decoration: none"  target="_blank">
