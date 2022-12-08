@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/JtdFYnw/Github-Banner.jpg" width="300"/>
+  <img src="https://i.ibb.co/JtdFYnw/Github-Banner.jpg" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I am Shakil</h1>
