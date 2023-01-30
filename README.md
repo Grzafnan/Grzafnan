@@ -24,6 +24,9 @@ Currently, I'm Developing my skill on Full-stack web development (MERN) because 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Rdux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
@@ -42,7 +45,7 @@ Currently, I'm Developing my skill on Full-stack web development (MERN) because 
 ### 🔥 My-Stats :
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=grzafnan&theme=react-dark&hide_border=true&area=true) <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grzafnan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br> <br>
+[![Shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=grzafnan&show_icons=true&theme=radical)]<br> <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=grzafnan&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
