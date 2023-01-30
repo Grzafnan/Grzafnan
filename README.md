@@ -8,7 +8,7 @@
 
 ### 🐼 About Me :
 
-It's Me, Shakil Ahmmed Here. I'm a Web Developer and currently working with JavaScript, ES6, React.Js, Node.Js, Express.Js, MongoDB, HTML, CSS, Bootstrap, Tailwind, and some other web development Technologies. I just love to develop websites and most of the time I design websites and It's gives me joy and in my leisure time I love to learn new things regularly.
+It's Me, Shakil Ahmmed Here. I'm a Web Developer and currently working with JavaScript, ES6, React Js, Redux, Next Js, Node.Js, Express.Js, MongoDB, HTML, CSS, Bootstrap, Tailwind, OAuth and some other web development Technologies. I just love to develop websites and most of the time I design websites and It's gives me joy and in my leisure time I love to learn new things regularly.
 
 Currently, I'm Developing my skill on Full-stack web development (MERN) because I'll love to build my future career in web development field. As I'm a quick learner, I believe it won't take longer to be a Full-stack developer.
 
@@ -16,7 +16,7 @@ Currently, I'm Developing my skill on Full-stack web development (MERN) because 
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div display="flex" gap="5px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
