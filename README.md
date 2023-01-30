@@ -46,7 +46,7 @@ Currently, I'm Developing my skill on Full-stack web development (MERN) because 
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=grzafnan&theme=react-dark&hide_border=true&area=true) <br>
 ![Shakil's GitHub stats](https://github-readme-stats.vercel.app/api?username=grzafnan&show_icons=true&theme=radical)<br> <br>
-![GitHub Streak](https://streak-stats.demolab.com?user=grzafnan&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=grzafnan&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
 
