@@ -15,7 +15,7 @@ Overall, I am confident that my extensive experience and expertise in web develo
 </p>
 <br>
 
-### Technologiess :
+### Technologies:
 
 <div display="flex" gap="5px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -48,11 +48,6 @@ Overall, I am confident that my extensive experience and expertise in web develo
 
 <br>
 
-### 🥇 Technologies :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grzafnan&layout=compact&theme=vision-friendly-dark&width=100%)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 ### 😄 Jokes Apart:
 
