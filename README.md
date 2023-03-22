@@ -8,9 +8,12 @@
 
 ### 🐼 About Me :
 
-It's Me, Shakil Ahmmed Here. I'm a Web Developer and currently working with JavaScript, ES6, React Js,TypeScript, Redux, Next Js, Node.Js, Express.Js, MongoDB, HTML, CSS, Bootstrap, Tailwind, OAuth, Firebase, JSON, REST APIs and some other web development Technologies. I just love to develop websites and most of the time I design websites and It's gives me joy and in my leisure time I love to learn new things regularly.
-
-Currently, I'm Developing my skill on Full-stack web development (MERN) because I'll love to build my future career in web development field. As I'm a quick learner, I believe it won't take longer to be a Full-stack developer.
+<p style="color:black;font-size:14px;text-align: justify;"> 
+It's Me, Shakil Ahmmed Here. I'm a MERN Stack Developer and proficient with HTML, CSS, JavaScript, ES6,TypeScript, React Js, Redux, Next Js, Node.Js, Express.Js, MongoDB,Passport.js, Authentication OAuth, Firebase Styled components, Bootstrap, Tailwind JSON, REST APIs and some other web development Technologies. I just love to develop websites and most of the time I design websites and It's gives me joy and in my leisure time I love to learn new things regularly.
+</p>
+<p style="color:black;font-size:14px;text-align: justify;">
+ Currently, I'm Developing my skill on Full-stack web development (MERN) because I'll love to build my future career in web development field. As I'm a    quick learner, I believe it won't take longer to be a Full-stack developer.
+</p>
 
 <br>
 
