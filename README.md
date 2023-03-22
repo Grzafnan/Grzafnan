@@ -7,8 +7,6 @@
 ### About Me: 
 
 <p style="color:black;font-size:14px;text-align: justify;"> 
-As an expert in <a href="https://www.mongodb.com/mern-stack"> MERN Stack </a> developer, I possess proficiency in various web development technologies such as HTML, CSS, JavaScript, ES6, TypeScript, React JS, Redux, Next JS, Node.Js, Express.Js, MongoDB, Passport.js, Authentication, OAuth, Firebase, Styled components, Bootstrap, Tailwind, JSON, and REST APIs.
-
 As a <a href="https://www.mongodb.com/mern-stack"> MERN Stack </a> developer, I possess proficiency in various web development technologies such as HTML, CSS, JavaScript, ES6, TypeScript, React JS, Redux, Next JS, Node.Js, Express.Js, MongoDB, Passport.js, Authentication, OAuth, Firebase, Styled components, Bootstrap, Tailwind, JSON, and REST APIs.
 
 My passion for creating exceptional website designs with superior functionality is unparalleled. I am constantly seeking new knowledge to keep up with the ever-evolving landscape of web development technology.
