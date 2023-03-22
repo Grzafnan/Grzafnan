@@ -15,12 +15,10 @@ Overall, I am confident that my extensive experience and expertise in web develo
 </p>
 <br>
 
-
 ### Contribution:
 [![GitHub Streak](https://streak-stats.demolab.com?user=grzafnan&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
-
 
 ### Jokes Apart:
 
