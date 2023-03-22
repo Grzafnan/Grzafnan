@@ -7,7 +7,7 @@
 ### About Me: 
 
 <p style="color:black;font-size:14px;text-align: justify;"> 
-As a <a href="https://www.mongodb.com/mern-stack"> MERN Stack </a> developer, I have proficient in a wide range of web development technologies such as HTML, CSS, JavaScript, ES6, TypeScript, React JS, Redux, Next JS, Node.Js, Express.Js, MongoDB, Passport.js, JWT Token, Authentications, OAuth, Firebase, Styled components, Bootstrap, Tailwind, JSON, REST APIs, Figma, Chrome Dev-tool, Vercel, and Netlify.
+As a <a href="https://www.mongodb.com/mern-stack"> MERN Stack </a> developer, I have proficient in a wide range of web development technologies such as HTML, CSS, JavaScript, ES6, TypeScript, React JS, Redux, Next JS, Node.Js, Express.Js, MongoDB, Passport.js, JWT Token, Authentication, OAuth, Firebase, Styled components, Bootstrap, Tailwind, JSON, REST APIs, Figma, Chrome Dev-tool, Vercel, and Netlify.
 
 My passion for creating exceptional website designs with superior functionality is unparalleled. I am constantly seeking new knowledge to keep up with the ever-evolving landscape of web development technology.
 
@@ -17,13 +17,11 @@ Overall, I am confident that my extensive experience and expertise in web develo
 
 ### Contribution:
 [![GitHub Streak](https://streak-stats.demolab.com?user=grzafnan&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <br>
 
 ### Jokes Apart:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 <hr>
 <br>
 <div id="badges" align="center">
