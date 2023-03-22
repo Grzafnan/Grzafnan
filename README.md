@@ -49,7 +49,7 @@ Overall, I am confident that my extensive experience and expertise in web develo
 <br>
 
 
-### 😄 Jokes Apart:
+### :( Jokes Apart:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
