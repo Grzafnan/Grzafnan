@@ -1,20 +1,18 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/7CHhmg2/Git-Hub-Cover-Pic-4000.jpg" width="100%"/>
 </div>
+  <h1 align="center">Hi 👋, I am Shakil</h1>
+  <br>
 
-<h1 align="center">Hi 👋, I am Shakil</h1>
-
-<br>
-
-### 🐼 About Me :
+### About Me:
 
 <p style="color:black;font-size:14px;text-align: justify;"> 
-It's Me, Shakil Ahmmed Here. I'm a MERN Stack Developer and proficient with HTML, CSS, JavaScript, ES6,TypeScript, React Js, Redux, Next Js, Node.Js, Express.Js, MongoDB,Passport.js, Authentication OAuth, Firebase Styled components, Bootstrap, Tailwind JSON, REST APIs and some other web development Technologies. I just love to develop websites and most of the time I design websites and It's gives me joy and in my leisure time I love to learn new things regularly.
-</p>
-<p style="color:black;font-size:14px;text-align: justify;">
- Currently, I'm Developing my skill on Full-stack web development (MERN) because I'll love to build my future career in web development field. As I'm a    quick learner, I believe it won't take longer to be a Full-stack developer.
-</p>
+I am a skilled MERN Stack Developer proficient in various web development technologies such as HTML, CSS, JavaScript, ES6, TypeScript, React JS, Redux, Next JS, Node.Js, Express.Js, MongoDB, Passport.js, Authentication, OAuth, Firebase, Styled components, Bootstrap, Tailwind, JSON, REST APIs, and more.
 
+My passion for creating websites with exceptional design and functionality is exceptional, and I continuously strive to learn new things to keep up with the ever-changing landscape of web development technology.
+
+Overall, I am confident that my extensive experience and expertise in web development make me a valuable asset to any team or project that demands high-quality website design and functionality.
+</p>
 <br>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -51,7 +49,7 @@ It's Me, Shakil Ahmmed Here. I'm a MERN Stack Developer and proficient with HTML
 
 <br>
 
-### 🥇 Top Languages :
+### 🥇 Technologies :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grzafnan&layout=compact&theme=vision-friendly-dark&width=100%)](https://github.com/anuraghazra/github-readme-stats)
 
