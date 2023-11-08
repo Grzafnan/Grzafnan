@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/7CHhmg2/Git-Hub-Cover-Pic-4000.jpg" width="100%" height="100%" loafing="lazy"/>
+  <img src="https://i.ibb.co/LCXY7hH/Git-Hub-Cover-Pic-4000.jpg" width="100%" height="100%" loafing="lazy"/>
 </div>
   <h1 align="center">Hi 👋, I am Shakil</h1>
   <br>
