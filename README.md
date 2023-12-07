@@ -15,34 +15,50 @@ My passion for creating exceptional website designs with superior functionality 
 Overall, I am confident that my extensive experience and expertise in web development make me a valuable asset to any team or project that requires high-quality website design and functionality.
 </p>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
 <br/>
+
+<div>
+  <h3> 🛠 &nbsp;Tech Stack</h3>
+    <ul>
+        <li>
+            <span>🌐 &nbsp;</span>
+            <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5">
+            <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
+            <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
+            <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" alt="TypeScript">
+            <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C"
+                alt="Bootstrap">
+            <img src="https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss" alt="TailwindCSS">
+            <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React">
+            <img src="https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux" alt="Redux">
+            <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js">
+            <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js">
+            <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="Firebase">
+        </li>
+        <li>
+            <span>🛢 &nbsp;</span>
+            <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB">
+            <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL">
+        </li>
+        <li>
+            <span>⚙️ &nbsp;</span>
+            <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
+            <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
+        </li>
+        <li>
+            <span>🔧 &nbsp;</span>
+            <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"
+                alt="Visual Studio Code">
+        </li>
+        <li>
+            <span>🖥 &nbsp;</span>
+            <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" alt="Figma">
+            <img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator"
+                alt="Illustrator">
+            <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop" alt="Photoshop">
+        </li>
+    </ul>
+</div>
 
 <br/>
 
