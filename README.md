@@ -15,7 +15,7 @@ My passion for creating exceptional website designs with superior functionality 
 Overall, I am confident that my extensive experience and expertise in web development make me a valuable asset to any team or project that requires high-quality website design and functionality.
 </p>
 
-<br/>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
