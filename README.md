@@ -3,7 +3,8 @@
 
 </div>
 <!--   <h1 align="center">Hi 👋, I am Shakil</h1> -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=400&height=70&lines=Hi+there%2C+I'm+Shakil.+Ahmmed.;A+JavaScript+enthusiast.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=400&height=70&lines=Hi+there%2C+I'm+Shakil.+Ahmmed.;A+JavaScript+enthusiast.)](https://git.io/typing-svg)
+ 
   <br>
 
 ### About Me: 
