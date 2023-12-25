@@ -1,8 +1,9 @@
 <div id="header" align="center">
 <img src="https://i.ibb.co/LCXY7hH/Git-Hub-Cover-Pic-4000.jpg" width="100%" height="100%" loafing="lazy"/>
 <br>
+<br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Shakil.;A+JavaScript+enthusiast.)](https://git.io/typing-svg)
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Shakil.;A+JavaScript+enthusiast." alt="Typing SVG" /></a>
 </div>
 
 ### About Me: 
