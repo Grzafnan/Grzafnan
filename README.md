@@ -33,6 +33,7 @@ Overall, I am confident that my extensive experience and expertise in web develo
             <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React">
             <img src="https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux" alt="Redux">
             <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js">
+        <img src="https://img.shields.io/badge/-express-333333?style=flat&logo=express" alt="Express.js">
             <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js">
 <!--             <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="Firebase"> -->
         </li>
