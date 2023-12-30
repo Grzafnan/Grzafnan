@@ -27,13 +27,14 @@ Overall, I am confident that my extensive experience and expertise in web develo
             <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
             <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
             <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" alt="TypeScript">
+            <img src="https://img.shields.io/badge/-Sass-333333?style=flat&logo=SASS" alt="SASS">
             <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C"
                 alt="Bootstrap">
             <img src="https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss" alt="TailwindCSS">
             <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React">
             <img src="https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux" alt="Redux">
             <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js">
-        <img src="https://img.shields.io/badge/-express-333333?style=flat&logo=express" alt="Express.js">
+           <img src="https://img.shields.io/badge/-express-333333?style=flat&logo=express" alt="Express.js">
             <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js">
 <!--             <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="Firebase"> -->
         </li>
