@@ -70,7 +70,7 @@ Overall, I am confident that my extensive experience and expertise in web develo
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Grzafnan&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="100%" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grzafnan&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=8&theme=blueberry&hide_border=false&order=2" height="100%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grzafnan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=blueberry&hide_border=false&order=2" height="100%" alt="languages graph"  />
 </div>
 <br>
 
