@@ -34,7 +34,7 @@ Overall, I am confident that my extensive experience and expertise in web develo
             <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React">
             <img src="https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux" alt="Redux">
             <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js">
-           <img src="https://img.shields.io/badge/-express-333333?style=flat&logo=express" alt="Express.js">
+            <img src="https://img.shields.io/badge/-express-333333?style=flat&logo=express" alt="Express.js">
             <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js">
 <!--             <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="Firebase"> -->
         </li>
@@ -67,7 +67,11 @@ Overall, I am confident that my extensive experience and expertise in web develo
 
 
 ### Contribution:
-[![GitHub Streak](https://streak-stats.demolab.com?user=grzafnan&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Grzafnan&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="100%" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grzafnan&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=8&theme=blueberry&hide_border=false&order=2" height="100%" alt="languages graph"  />
+</div>
 <br>
 
 ### Jokes Apart:
