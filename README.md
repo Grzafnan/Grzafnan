@@ -93,5 +93,5 @@ Overall, I am confident that my extensive experience and expertise in web develo
    <a href="https://www.instagram.com/grzafnan/" style="text-decoration: none"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
    </a>
-   <br>
 </div>
+<br/>
