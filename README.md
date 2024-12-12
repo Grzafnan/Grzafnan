@@ -3,7 +3,7 @@
 <br>
 <br>
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&center=true&Center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Shakil.;A+JavaScript+enthusiast.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&center=true&Center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Shakil.;A+Full-Stack+Web+Developer.)
 </div>
 
 ### About Me: 
