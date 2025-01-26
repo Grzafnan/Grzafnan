@@ -9,11 +9,9 @@
 ### About Me: 
 
 <p style="color:black;font-size:14px;text-align: justify;"> 
-As a Full Stack Web Developer, I have proficient in modern web development technologies such as HTML, CSS, JavaScript, ES6, TypeScript, React JS, Redux, Next JS, Node.Js, Express.Js, MongoDB, PostgreSQL, Passport.js, JWT, OAuth, Firebase, SASS, Styled components, Bootstrap, Tailwind CSS, Material UI, JSON, REST APIs, Prisma, SQL and NoSQL databases, Figma, Chrome Dev-tool, Vercel, Netlify, NginX, Apache, and etc.
+I’m a Full Stack Web Developer skilled in modern technologies like React.js, Node.js, Next.js, MongoDB, PostgreSQL, REST APIs, Firebase, and more. With a passion for crafting stunning, functional websites, I stay ahead in the ever-evolving world of web development.
 
-My passion for creating exceptional website designs with superior functionality is unparalleled. I am constantly seeking new knowledge to keep up with the ever-evolving landscape of web development technologies in my space.
-
-Overall, I am confident that my extensive experience and expertise in web development make me a valuable asset to any team or project that requires high-quality website design and functionality.
+My expertise and drive make me a valuable asset to any team aiming for exceptional results.
 </p>
 
 <br/>
