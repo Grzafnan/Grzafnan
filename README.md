@@ -9,9 +9,7 @@
 ### About Me: 
 
 <p style="color:black;font-size:14px;text-align: justify;"> 
-I’m a Full Stack Web Developer skilled in modern technologies like React.js, Node.js, Next.js, MongoDB, PostgreSQL, REST APIs, Firebase, and more. With a passion for crafting stunning, functional websites, I stay ahead in the ever-evolving world of web development.
-
-My expertise and drive make me a valuable asset to any team aiming for exceptional results.
+A passionate software engineer with over 4 years of experience in building innovative and scalable web applications. My journey in tech began with a curiosity for problem-solving and has evolved into a career focused on developing high-performing digital solutions. I specialize in creating efficient, secure, and maintainable applications, always striving to improve project outcomes. I'm dedicated to learning and implementing new technologies to enhance my skills and contribute to the success of the projects I work on. With a strong commitment to quality and continuous improvement, I collaborate effectively with cross-functional teams to deliver impactful results. My focus is always on delivering value through thoughtful design and optimized performance.
 </p>
 
 <br/>
