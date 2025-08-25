@@ -32,7 +32,7 @@ A passionate software engineer with over 4 years of experience in building innov
             <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js">
             <img src="https://img.shields.io/badge/-express-333333?style=flat&logo=express" alt="Express.js">
             <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js">
-<!--             <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="Firebase"> -->
+            <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="Firebase">
         </li>
         <li>
             <span>🛢 &nbsp;</span>
