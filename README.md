@@ -32,12 +32,13 @@ A passionate software engineer with over 4 years of experience in building innov
             <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js">
             <img src="https://img.shields.io/badge/-express-333333?style=flat&logo=express" alt="Express.js">
             <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js">
-            <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="Firebase">
+            <img src="https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs" alt="Nest.js">
         </li>
         <li>
             <span>🛢 &nbsp;</span>
             <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB">
             <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL">
+            <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="Firebase">
         </li>
         <li>
             <span>⚙️ &nbsp;</span>
@@ -46,7 +47,9 @@ A passionate software engineer with over 4 years of experience in building innov
         </li>
         <li>
             <span>🔧 &nbsp;</span>
-            <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"
+               <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello" alt="Trello">
+               <img src="https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira" alt="Jira">
+                <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"
                 alt="Visual Studio Code">
         </li>
         <li>
