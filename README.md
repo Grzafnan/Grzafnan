@@ -32,8 +32,6 @@ I focus on building systems that are **secure by design, scalable by architectur
 
 ## 🛠 Tech Stack
 <div>
-  <h3> 🛠 &nbsp;Tech Stack</h3>
-
   <ul>
     <li>
       <span>🌐 &nbsp;</span>
