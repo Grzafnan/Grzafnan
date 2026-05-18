@@ -1,105 +1,109 @@
 <div id="header" align="center">
-<img src="https://i.ibb.co/LCXY7hH/Git-Hub-Cover-Pic-4000.jpg" width="100%" height="100%" loafing="lazy"/>
-<br>
-<br>
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&center=true&Center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Shakil.;A+Full-Stack+Web+Developer.)
+
+<img src="https://i.ibb.co/LCXY7hH/Git-Hub-Cover-Pic-4000.jpg" width="100%" loading="lazy"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Software+Engineer;Scalable+SaaS+%7C+Enterprise+Systems+%7C+Cloud+Architecture;React.js+%7C+Node.js+%7C+TypeScript+%7C+AWS" />
+
 </div>
 
-### About Me: 
+---
 
-<p style="color:black;font-size:14px;text-align: justify;"> 
-Senior Full Stack Software Engineer with 4+ years of experience architecting and delivering scalable SaaS platforms, enterprise-grade systems, and cloud-native applications focused on performance, security, and reliability at scale.
+## 🧠 About Me
 
-Specialized in end-to-end system design and implementation using React.js, Next.js, TypeScript, Node.js, NestJs and modern backend architectures. Strong expertise in scalable APIs, distributed system design, authentication & authorization, RBAC, database modeling (SQL/NoSQL), and cloud (GCP & AWs) based infrastructure.
+Senior Full Stack Software Engineer with 4+ years of experience building **scalable SaaS platforms, enterprise-grade systems, and cloud-native applications** focused on performance, security, and real-world business impact.
 
-Proven experience across CRM, ERP, POS, finance systems, workflow automation, eCommerce platforms, analytics systems, campaign management solutions, and production-grade web platforms serving real users.
+Specialized in end-to-end system architecture and development using **React.js, Next.js, TypeScript, Node.js, NestJS**, and modern cloud infrastructure.
 
-Strong focus on engineering excellence—clean architecture, performance optimization, secure system design, and production reliability. Experienced in integrating complex external ecosystems including payments, analytics, advertising platforms, social APIs, and enterprise services to enable full-scale automation and interoperability.
+Strong expertise in:
+- Scalable system design & distributed architectures  
+- Secure authentication, authorization & RBAC systems  
+- RESTful APIs & backend engineering  
+- SQL/NoSQL data modeling at scale  
+- AWS & cloud-native deployments  
+- Performance optimization & production reliability  
 
-I build systems that are scalable by design, secure by default, and maintainable for long-term evolution in fast-moving production environments.
+Experienced across **CRM, ERP, POS, finance systems, workflow automation, eCommerce, analytics platforms, campaign systems, and enterprise web applications**.
 
-</p>
+I focus on building systems that are **secure by design, scalable by architecture, and reliable in production environments**.
 
-<br/>
+---
 
+## 🛠 Tech Stack
 <div>
   <h3> 🛠 &nbsp;Tech Stack</h3>
-    <ul>
-        <li>
-            <span>🌐 &nbsp;</span>
-            <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5">
-            <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
-            <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript">
-            <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" alt="TypeScript">
-            <img src="https://img.shields.io/badge/-Sass-333333?style=flat&logo=SASS" alt="SASS">
-            <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C"
-                alt="Bootstrap">
-            <img src="https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss" alt="TailwindCSS">
-            <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React">
-            <img src="https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux" alt="Redux">
-            <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="Next.js">
-            <img src="https://img.shields.io/badge/-express-333333?style=flat&logo=express" alt="Express.js">
-            <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js">
-            <img src="https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs" alt="Nest.js">
-        </li>
-        <li>
-            <span>🛢 &nbsp;</span>
-            <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB">
-            <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL">
-            <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" alt="Firebase">
-        </li>
-        <li>
-            <span>⚙️ &nbsp;</span>
-            <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
-            <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
-        </li>
-        <li>
-            <span>🔧 &nbsp;</span>
-               <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello" alt="Trello">
-               <img src="https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira" alt="Jira">
-                <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"
-                alt="Visual Studio Code">
-        </li>
-        <li>
-            <span>🖥 &nbsp;</span>
-            <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" alt="Figma">
-            <img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator"
-                alt="Illustrator">
-            <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop" alt="Photoshop">
-        </li>
-    </ul>
+
+  <ul>
+    <li>
+      <span>🌐 &nbsp;</span>
+      React.js • Next.js • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Redux • Responsive UI Systems
+    </li>
+    <li>
+      <span>⚙️ &nbsp;</span>
+      Node.js • NestJS • Express.js • RESTful APIs • Microservices • WebSockets • Server-Side Rendering (SSR) • Event-Driven Architecture
+    </li>
+    <li>
+      <span>🛢️ &nbsp;</span>
+      PostgreSQL • MySQL • MongoDB • Firebase • Redis • Data Modeling • Query Optimization • Scalable Data Structures
+    </li>
+    <li>
+      <span>☁️ &nbsp;</span>
+      AWS • GCP • Docker • CI/CD Pipelines • Cloudflare • Nginx • Linux Server Management • Deployment Automation
+    </li>
+    <li>
+      <span>🔐 &nbsp;</span>
+      Authentication • Authorization • RBAC • JWT • OAuth2 • Secure API Design • System Architecture • Rate Limiting
+    </li>
+    <li>
+      <span>🔌 &nbsp;</span>
+      Google APIs • Meta APIs (Facebook/Instagram) • LinkedIn APIs • Stripe • PayPal • NMI • QuickBooks • Ads & Analytics APIs • Webhooks
+    </li>
+    <li>
+      <span>📊 &nbsp;</span>
+      SaaS Architecture • Multi-Tenant Systems • Workflow Automation • Real-Time Systems • High-Load Applications • Distributed System Design
+    </li>
+    <li>
+      <span>⚡ &nbsp;</span>
+      Caching Strategies • CDN Optimization • Database Indexing • API Optimization • Core Web Vitals • Performance Tuning
+    </li>
+    <li>
+      <span>🧰 &nbsp;</span>
+      Git • GitHub • VS Code • Postman • Swagger • Jira • Trello • Agile Development
+    </li>
+  </ul>
 </div>
 
-<br/>
+---
 
+## 📊 GitHub Stats
 
-### Contribution:
+<div align="center">
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Grzafnan&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="100%" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grzafnan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=blueberry&hide_border=false&order=2" height="100%" alt="languages graph"  />
+<img src="https://streak-stats.demolab.com?user=Grzafnan&theme=blueberry" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grzafnan&layout=compact&theme=blueberry" height="170"/>
+
 </div>
-<br>
 
-### Jokes Apart:
+---
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<hr>
-<br>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/shakilahmmed1/" style="text-decoration: none"  target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/shakil_ahmmed7" style="text-decoration: none"  target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.facebook.com/GRzAfnan/" style="text-decoration: none"  target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-   </a>
- 
-   <a href="https://www.instagram.com/grzafnan/" style="text-decoration: none"  target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-   </a>
+## ⚡ Engineering Focus
+
+- Scalable SaaS Architecture  
+- High-Performance Web Systems  
+- Cloud-Native Engineering  
+- API & System Design  
+- Production-Grade Applications  
+- Automation & Integration Systems  
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shakilahmmed1/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
-<br/>
