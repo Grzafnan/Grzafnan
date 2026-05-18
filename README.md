@@ -9,7 +9,16 @@
 ### About Me: 
 
 <p style="color:black;font-size:14px;text-align: justify;"> 
-A passionate software engineer with over 4 years of experience in building innovative and scalable web applications. My journey in tech began with a curiosity for problem-solving and has evolved into a career focused on developing high-performing digital solutions. I specialize in creating efficient, secure, and maintainable applications, always striving to improve project outcomes. I'm dedicated to learning and implementing new technologies to enhance my skills and contribute to the success of the projects I work on. With a strong commitment to quality and continuous improvement, I collaborate effectively with cross-functional teams to deliver impactful results. My focus is always on delivering value through thoughtful design and optimized performance.
+Senior Full Stack Software Engineer with 4+ years of experience architecting and delivering scalable SaaS platforms, enterprise-grade systems, and cloud-native applications focused on performance, security, and reliability at scale.
+
+Specialized in end-to-end system design and implementation using React.js, Next.js, TypeScript, Node.js, NestJs and modern backend architectures. Strong expertise in scalable APIs, distributed system design, authentication & authorization, RBAC, database modeling (SQL/NoSQL), and cloud (GCP & AWs) based infrastructure.
+
+Proven experience across CRM, ERP, POS, finance systems, workflow automation, eCommerce platforms, analytics systems, campaign management solutions, and production-grade web platforms serving real users.
+
+Strong focus on engineering excellence—clean architecture, performance optimization, secure system design, and production reliability. Experienced in integrating complex external ecosystems including payments, analytics, advertising platforms, social APIs, and enterprise services to enable full-scale automation and interoperability.
+
+I build systems that are scalable by design, secure by default, and maintainable for long-term evolution in fast-moving production environments.
+
 </p>
 
 <br/>
