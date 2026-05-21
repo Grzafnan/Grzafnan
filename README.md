@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Software+Engineer;Scalable+SaaS+%7C+Enterprise+Systems+%7C+Cloud+Architecture;React.js+%7C+Node.js+%7C+NestJs+%7C+TypeScript+%7C+AWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Senior+Full+Stack+Software+Engineer;Scalable+SaaS+%7C+Enterprise+Systems+%7C+Cloud+Architecture;React.js+%7C+Node.js+%7C+NestJs+%7C+TypeScript+%7C+AWS/GCP" />
 
 </div>
 
